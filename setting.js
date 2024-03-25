@@ -2,8 +2,8 @@
 //FREE APIKEY PREMIUM
 
 const TelegramBot = require('node-telegram-bot-api'); 
-const token = "7071018315:AAG4YO1aPvkPrqiMyusREoaLNz_PHbsyZ6A"; //TOKEN TELE BOT
-const botname = "Sansline-bot";
+const token = "-"; //TOKEN TELE BOT
+const botname = "-";
 
 module.exports = {
     botname
