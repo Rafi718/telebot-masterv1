@@ -1,8 +1,8 @@
 
 <h1 align="center">TELEGRAM BOT </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://ibb.co/RQnbsd6"width="450">
+  <a href="https://rafioroject.site">
+    <img alt="GitPoint" title="GitPoint" src="https://ibb.co/RQnbsd6"width="200">
   </a>
 </p>
 
