@@ -12,4 +12,3 @@ $ npm run bot
 
 Ubah bot token anda di setting.js:
 FREE APIKEY
-```
